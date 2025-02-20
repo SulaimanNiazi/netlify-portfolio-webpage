@@ -163,15 +163,15 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions: []
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         actions:
           - type: Link
             label: Stack Overflow
             url: 'https://stackoverflow.com/users/25432792/muhammad-sulaiman'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
         styles:
           self:
             textAlign: left
