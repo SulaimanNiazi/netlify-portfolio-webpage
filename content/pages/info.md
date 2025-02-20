@@ -168,7 +168,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: ORCiD
             altText: ''
             url: 'https://orcid.org/0009-0000-6779-1458'
             showIcon: false
