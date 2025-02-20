@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-14 211301.png
   altText: Proteus Simulation of Circuit
+  caption: Proteus Simulation of Circuit
 media:
   type: ImageBlock
   url: /images/bg3.jpg
