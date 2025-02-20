@@ -94,7 +94,7 @@ sections:
         borderColor: border-dark
         margin:
           - mr-8
-          - ml-8
+          - ml-0
       title:
         textAlign: left
       subtitle:
