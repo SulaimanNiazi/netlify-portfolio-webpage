@@ -13,7 +13,7 @@ excerpt: >-
   support on this journey. 
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/1737112515295.jpeg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
