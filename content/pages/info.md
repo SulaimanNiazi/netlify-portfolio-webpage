@@ -334,18 +334,26 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >
+          **2020 - 2024**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   Bachelors in Mechatronics Engineering at [University of
+          Wah](https://www.uow.edu.pk/)
 
-          * react certificate somewhere
 
-          **2011**
+          **2018 - 2020**
 
-          * my highschool
+
+          *   A level Pre mechatronnics engineering at [Benchmark School
+          System](https://benchmark.edu.pk/)
+
+
+          **2015 - 2018**
+
+
+          *   O level pre-engineering at [The City
+          School](https://thecityschool.edu.pk/)
         styles:
           self:
             textAlign: left
