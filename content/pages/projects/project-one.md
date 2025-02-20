@@ -1,8 +1,6 @@
 ---
 type: ProjectLayout
-title: >-
-  An industrial counter built using PIC16F877A micro-controller and displaying
-  count and rate on LM016L LCD. It uses a light sensor to count items.
+title: ''
 colors: colors-a
 date: '2023-01-15'
 client: Awesome client
