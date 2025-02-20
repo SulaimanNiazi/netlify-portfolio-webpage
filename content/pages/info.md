@@ -66,7 +66,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/New_Logo-14.jpg
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
