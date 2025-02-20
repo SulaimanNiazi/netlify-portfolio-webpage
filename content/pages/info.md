@@ -75,7 +75,7 @@ sections:
         caption: 'Mechatronics Engineering Intern '
     spacing: 18
     columns: 5
-    aspectRatio: auto
+    aspectRatio: '1:1'
     showCaption: false
     enableHover: false
     styles:
