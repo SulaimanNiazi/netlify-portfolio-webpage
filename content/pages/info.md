@@ -256,6 +256,9 @@ sections:
       - type: Label
         label: GitHub Actions
         url: ''
+      - type: Label
+        label: Argo CD
+        url: ''
   - type: DividerSection
     styles:
       self:
