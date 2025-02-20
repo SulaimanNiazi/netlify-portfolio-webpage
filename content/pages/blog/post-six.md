@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/1737112496124.jpeg
-  altText: Post thumbnail image
+  altText: Sulaiman with Sardar Saleem Haider Khan
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
