@@ -104,5 +104,6 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/Screenshot 2025-02-20 212808.png
 ---
 <https://learn.deeplearning.ai/accomplishments/bbab8bdf-6b1e-4396-bfca-32225f381c4d?usp=sharing>
