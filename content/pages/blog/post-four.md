@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-20 212808.png
-  altText: Post thumbnail image
+  altText: My badge for completing the course
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
