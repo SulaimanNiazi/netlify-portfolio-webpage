@@ -236,7 +236,7 @@ sections:
         label: MPlab
         url: ''
       - type: Label
-        label: Programmable Logic Controllers (PLC ladder logic)
+        label: Programmable Logic Controllers (PLC)
         url: ''
       - type: Label
         label: CNC (RS-274)
