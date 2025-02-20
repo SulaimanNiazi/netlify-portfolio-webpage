@@ -106,7 +106,7 @@ bottomSections:
 media:
   type: ImageBlock
   url: /images/1737112495290.jpeg
-  altText: altText of the image
+  altText: Sulaiman receiving his gold medal
   caption: Caption of the image
   elementId: ''
 socialImage: /images/1737112496124.jpeg
