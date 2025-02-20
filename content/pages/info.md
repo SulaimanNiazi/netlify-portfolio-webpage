@@ -247,6 +247,9 @@ sections:
       - type: Label
         label: PostGreSQL
         url: ''
+      - type: Label
+        label: HTML
+        url: ''
   - type: DividerSection
     styles:
       self:
