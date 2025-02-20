@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: PIC Simple Calculator
+title: PIC Calculator
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
