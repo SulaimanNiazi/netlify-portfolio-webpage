@@ -214,7 +214,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: C language programming
+        label: C
       - type: Label
         label: C++ language programming
       - type: Label
