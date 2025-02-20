@@ -155,6 +155,14 @@ sections:
             iconPosition: right
             elementId: ''
       - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Instagram
+            url: 'https://www.instagram.com/arcadianarcana/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         actions: []
         styles:
           self:
@@ -164,14 +172,6 @@ sections:
           - type: Link
             label: Stack Overflow
             url: 'https://stackoverflow.com/users/25432792/muhammad-sulaiman'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/arcadianarcana/'
         styles:
           self:
             textAlign: left
