@@ -48,7 +48,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/fancy pic.png
-      altText: altText of the image
+      altText: Hi!
       caption: This is what I look like!
       elementId: ''
   - colors: colors-f
