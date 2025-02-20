@@ -250,6 +250,9 @@ sections:
       - type: Label
         label: HTML
         url: ''
+      - type: Label
+        label: GitHub Actions
+        url: ''
   - type: DividerSection
     styles:
       self:
