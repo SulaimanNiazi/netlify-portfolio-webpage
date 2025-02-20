@@ -315,26 +315,18 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >
+          **Oct 2024 - Jan 2025**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Software Engineering Intern at [Emumba](https://emumba.com/)
 
-          * fullstack at this startup
 
-          **2015**
+          **Jul 2023 - Aug 2023**
 
-          * senior front-end at this place
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+          *   Mechatronics Engineering Intern at [Pakistan Ordinance
+          Factories](https://pof.gov.pk/)
         styles:
           self:
             textAlign: left
