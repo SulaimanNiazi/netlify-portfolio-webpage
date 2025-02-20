@@ -315,15 +315,31 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |+
+        text: >
           **Oct 2024 - Jan 2025**
+
 
           *   Software Engineering Intern at [Emumba](https://emumba.com/)
 
+
           **Jul 2023 - Aug 2023**
+
 
           *   Mechatronics Engineering Intern at [POF](https://pof.gov.pk/)
 
+
+          **2020 - 2024**
+
+
+          *   Member of Robotics Society at [Wah Engineering
+          College](https://www.wecuw.edu.pk/)
+
+
+          **2019 - 2020**
+
+
+          *   President of STEM Society at [Benchmark School
+          System](https://benchmark.edu.pk/)
         styles:
           self:
             textAlign: left
