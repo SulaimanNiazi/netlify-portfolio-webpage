@@ -92,6 +92,8 @@ sections:
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
+        margin:
+          - mr-3
       title:
         textAlign: left
       subtitle:
