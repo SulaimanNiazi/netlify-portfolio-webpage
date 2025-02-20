@@ -138,6 +138,23 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: ORCiD
+            altText: ''
+            url: 'https://orcid.org/0009-0000-6779-1458'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+      - type: FeaturedItem
         actions: []
         styles:
           self:
@@ -158,23 +175,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Link
-            label: ORCiD
-            altText: ''
-            url: 'https://orcid.org/0009-0000-6779-1458'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 0
