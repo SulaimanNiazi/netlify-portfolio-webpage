@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: PIC Calculator
 colors: colors-a
-date: '2023-12-20'
+date: '2025-12-20'
 client: ''
 description: >-
   This project is a firmware application designed for the PIC16F877A
