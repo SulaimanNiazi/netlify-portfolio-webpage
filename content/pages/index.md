@@ -49,7 +49,7 @@ sections:
       type: ImageBlock
       url: /images/fancy pic.png
       altText: altText of the image
-      caption: Caption of the image
+      caption: This is what I look like!
       elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
