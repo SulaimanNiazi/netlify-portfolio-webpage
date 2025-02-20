@@ -271,6 +271,9 @@ sections:
       - type: Label
         label: Cypress
         url: ''
+      - type: Label
+        label: Postman
+        url: ''
   - type: DividerSection
     styles:
       self:
