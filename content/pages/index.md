@@ -98,7 +98,7 @@ sections:
     actions:
       - type: Link
         label: See all posts
-        url: 'https://www.linkedin.com/in/muhammad-sulaiman-niazi/'
+        url: /blog
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
