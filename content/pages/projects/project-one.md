@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: Industrial Production Counter
 colors: colors-a
 date: '2023-01-15'
 client: ''
