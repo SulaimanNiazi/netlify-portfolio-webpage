@@ -149,7 +149,7 @@ sections:
         actions:
           - type: Link
             label: Stack Overflow
-            url: 'https://discord.com/'
+            url: 'https://stackoverflow.com/users/25432792/muhammad-sulaiman'
         styles:
           self:
             textAlign: left
