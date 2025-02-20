@@ -3,7 +3,7 @@ type: ProjectLayout
 title: PIC Calculator
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: ''
 description: >-
   This project is a firmware application designed for the PIC16F877A
   micro-controller to function as a calculator. It takes input from a button
