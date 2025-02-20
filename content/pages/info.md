@@ -350,12 +350,14 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: >
+        text: >+
           **2020 - 2024**
 
 
           *   Bachelors in Mechatronics Engineering at [University of
           Wah](https://www.uow.edu.pk/)
+
+          *   Short Course in Artificial Intelligence
 
 
           **2018 - 2020**
@@ -370,6 +372,7 @@ sections:
 
           *   O level pre-engineering at [The City
           School](https://thecityschool.edu.pk/)
+
         styles:
           self:
             textAlign: left
