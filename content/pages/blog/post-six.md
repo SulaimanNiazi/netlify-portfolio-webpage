@@ -9,7 +9,7 @@ excerpt: >-
   Khan, on my graduation day as a gold medalist in Mechatronics Engineering.
 featuredImage:
   type: ImageBlock
-  url: /images/1737112515295.jpeg
+  url: /images/1737112496124.jpeg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
