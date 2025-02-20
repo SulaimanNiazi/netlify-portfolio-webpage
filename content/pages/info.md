@@ -66,13 +66,13 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/New_Logo-14.jpg
-        altText: Pakistan Ordinance Factories
-        caption: 'Mechatronics Engineering Intern '
-      - type: ImageBlock
         url: /images/emumba.jpeg
         altText: Emumba
         caption: Software Engineering Intern
+      - type: ImageBlock
+        url: /images/New_Logo-14.jpg
+        altText: Pakistan Ordinance Factories
+        caption: 'Mechatronics Engineering Intern '
     spacing: 3
     columns: 5
     aspectRatio: auto
