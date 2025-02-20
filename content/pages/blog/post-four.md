@@ -107,4 +107,6 @@ bottomSections:
 socialImage: /images/Screenshot 2025-02-20 212808.png
 metaTitle: Sulaiman's LLM course accomplishment
 ---
-<https://learn.deeplearning.ai/accomplishments/bbab8bdf-6b1e-4396-bfca-32225f381c4d?usp=sharing>
+Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.
+
+[Visit the course](https://learn.deeplearning.ai/accomplishments/bbab8bdf-6b1e-4396-bfca-32225f381c4d?usp=sharing)
