@@ -93,7 +93,7 @@ sections:
         borderStyle: none
         borderColor: border-dark
         margin:
-          - mr-8
+          - mr-0
           - ml-0
       title:
         textAlign: left
