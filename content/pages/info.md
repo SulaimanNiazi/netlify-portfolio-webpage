@@ -266,6 +266,9 @@ sections:
         label: Selenium
         url: ''
       - type: Label
+        label: Jmeter
+        url: ''
+      - type: Label
         label: Cypress
         url: ''
   - type: DividerSection
