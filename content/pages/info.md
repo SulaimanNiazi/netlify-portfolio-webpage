@@ -70,7 +70,7 @@ sections:
         altText: Pakistan Ordinance Factories
         caption: 'Mechatronics Engineering Intern '
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/emumba.jpeg
         altText: Logo five
         caption: Logo five
     spacing: 3
