@@ -226,7 +226,7 @@ sections:
       - type: Label
         label: Javascript
       - type: Label
-        label: C++
+        label: Cascading Style Sheets
       - type: Label
         label: Swift
   - type: DividerSection
