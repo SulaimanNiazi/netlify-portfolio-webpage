@@ -157,7 +157,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/arcadianarcana/'
         styles:
           self:
             textAlign: left
