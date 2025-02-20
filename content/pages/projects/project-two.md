@@ -19,7 +19,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/default-image.png'
   altText: Proteus Simulation of Circuit
-  caption: Caption of the image
+  caption: Proteus Simulation of Circuit
   elementId: ''
 ---
 [Visit the project](https://github.com/SulaimanNiazi/PIC-Simple-Calculator)
