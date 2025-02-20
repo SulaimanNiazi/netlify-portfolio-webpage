@@ -109,7 +109,7 @@ media:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
-socialImage: /images/1737112515295.jpeg
+socialImage: /images/1737112496124.jpeg
 ---
 Honored to stand with the esteemed Governor of Punjab, Sardar Saleem Haider Khan, on my 
 graduation day as a gold medalist in Mechatronics Engineering. This 
