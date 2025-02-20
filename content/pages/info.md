@@ -13,11 +13,16 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      Hello I am Muhammad Sulaiman, I am a gold medalist in Mechatronics
+      Engineering. I have done my bachelors in Mechatronics from the University
+      of Wah. I specialize in Robotics, Micro-controller Programming, and AI,
+      and I am quite experienced in Software Development, Web Development, and
+      API Automation Testing.
+
+
+
+
     media:
       type: ImageBlock
       url: /images/1737112515295.jpeg
