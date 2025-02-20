@@ -105,7 +105,7 @@ bottomSections:
         textAlign: left
 media:
   type: ImageBlock
-  url: /images/1737112515295.jpeg
+  url: /images/1737112495290.jpeg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
