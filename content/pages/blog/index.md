@@ -26,6 +26,7 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+  elementId: feed
 styles:
   title:
     textAlign: left
