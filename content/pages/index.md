@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: I’m a gold medalist in Mechatronics Engineering.
     subtitle: >-
-      Firmware Projects | Robotics | Artificial Intelligence | Micro-controller
-      and Micro-processor programming | Software Application Development |
+      Firmware Projects | Robotics | Micro-controller and Micro-processor
+      programming | Artificial Intelligence | Software Application Development |
       Webpage development | API Automation testing
     styles:
       self:
