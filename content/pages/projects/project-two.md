@@ -15,7 +15,7 @@ featuredImage:
   caption: Proteus Simulation of Circuit
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2025-02-19 224450.png
   altText: Project image
 ---
 
