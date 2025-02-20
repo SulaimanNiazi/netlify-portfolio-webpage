@@ -21,7 +21,7 @@ media:
   caption: Proteus Simulation of Circuit
 socialImage: /images/Screenshot 2025-02-19 224450.png
 ---
-``![](/images/Screenshot%202025-02-19%20224450.png)``
+<img src="/images/Screenshot%202025-02-19%20224450.png" height="200" width="200" />
 
 This project is a firmware application designed for the PIC16F877A microcontroller to function as a calculator. It takes input from a button grid and displays the results on an LM016L LCD display. The firmware is developed using the MPLAB X IDE and the XC8 compiler.
 
