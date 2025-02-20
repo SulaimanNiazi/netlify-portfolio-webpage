@@ -77,7 +77,7 @@ sections:
     columns: 5
     aspectRatio: '1:1'
     showCaption: true
-    enableHover: false
+    enableHover: true
     styles:
       self:
         width: full
