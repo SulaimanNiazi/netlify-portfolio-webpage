@@ -257,6 +257,9 @@ sections:
         label: GitHub Actions
         url: ''
       - type: Label
+        label: Jenkins
+        url: ''
+      - type: Label
         label: Argo CD
         url: ''
   - type: DividerSection
