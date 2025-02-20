@@ -262,6 +262,9 @@ sections:
       - type: Label
         label: Argo CD
         url: ''
+      - type: Label
+        label: Selenium
+        url: ''
   - type: DividerSection
     styles:
       self:
