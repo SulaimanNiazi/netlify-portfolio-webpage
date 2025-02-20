@@ -230,6 +230,9 @@ sections:
       - type: Label
         label: ArduinoIDE
       - type: Label
+        label: STM32Cube
+        url: ''
+      - type: Label
         label: MPlab
         url: ''
   - type: DividerSection
