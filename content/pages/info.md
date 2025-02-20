@@ -241,6 +241,9 @@ sections:
       - type: Label
         label: CNC (RS-274)
         url: ''
+      - type: Label
+        label: AI chatbots
+        url: ''
   - type: DividerSection
     styles:
       self:
