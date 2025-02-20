@@ -67,7 +67,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/New_Logo-14.jpg
-        altText: Logo four
+        altText: Pakistan Ordinance Factories
         caption: Logo four
       - type: ImageBlock
         url: /images/logo5.svg
