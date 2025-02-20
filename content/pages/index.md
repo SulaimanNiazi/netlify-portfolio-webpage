@@ -13,13 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: I’m a gold medalist in Mechatronics Engineering.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Embedded Systems Developer| Firmware & Robotics | Micro-controller &
+      Microprocessor Programming | AI & Software Development | API Test
+      Automation & Web Development
     styles:
       self:
         height: auto
@@ -47,6 +45,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    media:
+      type: ImageBlock
+      url: /images/fancy pic.png
+      altText: Hi!
+      caption: This is what I look like!
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -84,7 +88,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -94,11 +98,10 @@ sections:
     actions:
       - type: Link
         label: See all posts
-        url: /blog
+        url: 'https://www.linkedin.com/in/muhammad-sulaiman-niazi/'
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
