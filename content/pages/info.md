@@ -236,6 +236,9 @@ sections:
         label: MPlab
         url: ''
       - type: Label
+        label: Programmable Logic Controllers (PLC ladder logic)
+        url: ''
+      - type: Label
         label: CNC (RS-274)
         url: ''
   - type: DividerSection
