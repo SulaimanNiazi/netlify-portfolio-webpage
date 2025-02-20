@@ -350,7 +350,14 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: >+
+        text: >
+          **2024 - 2025**
+
+
+          *   [Software engineering courses and certifications at
+          Emumba](https://www.linkedin.com/in/muhammad-sulaiman-niazi/details/certifications/)
+
+
           **2020 - 2024**
 
 
@@ -372,7 +379,6 @@ sections:
 
           *   O level pre-engineering at [The City
           School](https://thecityschool.edu.pk/)
-
         styles:
           self:
             textAlign: left
