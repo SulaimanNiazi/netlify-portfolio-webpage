@@ -4,7 +4,13 @@ title: Me with the Governor of Punjab
 colors: colors-a
 date: '2024-11-17'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Honored to stand with the esteemed Governor of Punjab, Sardar Saleem Haider
+  Khan, on my graduation day as a gold medalist in Mechatronics Engineering.
+  This achievement reflects years of dedication to merging mechanical systems
+  with intelligent technologies, aiming to advance automation and robotics for a
+  smarter future. Grateful to my mentors, peers, and family for their unwavering
+  support on this journey. 
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
