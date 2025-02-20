@@ -72,7 +72,7 @@ sections:
       - type: ImageBlock
         url: /images/emumba.jpeg
         altText: Emumba
-        caption: Logo five
+        caption: Software Engineering Intern
     spacing: 3
     columns: 5
     aspectRatio: auto
