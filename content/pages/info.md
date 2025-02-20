@@ -265,6 +265,9 @@ sections:
       - type: Label
         label: Selenium
         url: ''
+      - type: Label
+        label: Cypress
+        url: ''
   - type: DividerSection
     styles:
       self:
