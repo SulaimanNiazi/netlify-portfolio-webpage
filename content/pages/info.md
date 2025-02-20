@@ -235,6 +235,9 @@ sections:
       - type: Label
         label: MPlab
         url: ''
+      - type: Label
+        label: CNC (RS-274)
+        url: ''
   - type: DividerSection
     styles:
       self:
