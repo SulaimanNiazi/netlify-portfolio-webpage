@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: I’m a gold medalist in Mechatronics Engineering.
     subtitle: >-
-      Embedded Systems Engineer | Firmware & Robotics | Micro-controller &
+      Embedded Systems Developer| Firmware & Robotics | Micro-controller &
       Microprocessor Programming | AI & Software Development | API Automation &
       Web Development
     styles:
