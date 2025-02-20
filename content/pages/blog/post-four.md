@@ -2,7 +2,7 @@
 type: PostLayout
 title: Prompt engineering for developers
 colors: colors-a
-date: '2024-02-01'
+date: '2024-01-01'
 author: content/data/team/doris-soto.json
 excerpt: >-
   Learn the fundamentals of prompt engineering for ChatGPT. Learn effective
