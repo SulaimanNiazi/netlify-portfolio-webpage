@@ -216,7 +216,7 @@ sections:
       - type: Label
         label: C language programming
       - type: Label
-        label: React
+        label: C++ language programming
       - type: Label
         label: Microsoft Office
       - type: Label
