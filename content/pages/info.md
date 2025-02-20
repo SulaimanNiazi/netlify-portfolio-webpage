@@ -148,7 +148,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: Stack Overflow
             url: 'https://discord.com/'
         styles:
           self:
