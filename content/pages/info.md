@@ -251,6 +251,9 @@ sections:
         label: HTML
         url: ''
       - type: Label
+        label: GitLab
+        url: ''
+      - type: Label
         label: GitHub Actions
         url: ''
   - type: DividerSection
