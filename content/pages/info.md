@@ -220,7 +220,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Next.js
+        label: Java
       - type: Label
         label: Netlify
       - type: Label
