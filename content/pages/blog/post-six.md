@@ -2,7 +2,7 @@
 type: PostLayout
 title: Me with the Governor of Punjab
 colors: colors-a
-date: '2024-06-03'
+date: '2024-11-17'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
