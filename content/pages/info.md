@@ -133,7 +133,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/muhammad-sulaiman-niazi'
+            url: 'https://www.linkedin.com/in/muhammad-sulaiman-niazi/'
         styles:
           self:
             textAlign: left
