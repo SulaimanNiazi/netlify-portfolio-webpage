@@ -68,7 +68,7 @@ sections:
       - type: ImageBlock
         url: /images/New_Logo-14.jpg
         altText: Pakistan Ordinance Factories
-        caption: Logo four
+        caption: 'Mechatronics Engineering Intern '
       - type: ImageBlock
         url: /images/logo5.svg
         altText: Logo five
