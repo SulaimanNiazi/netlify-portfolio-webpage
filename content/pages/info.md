@@ -73,14 +73,14 @@ sections:
         url: /images/New_Logo-14.jpg
         altText: Pakistan Ordinance Factories
         caption: 'Mechatronics Engineering Intern '
-    spacing: 18
+    spacing: 30
     columns: 5
     aspectRatio: '1:1'
     showCaption: true
     enableHover: true
     styles:
       self:
-        width: full
+        width: wide
         height: auto
         padding:
           - pt-8
@@ -94,6 +94,7 @@ sections:
         borderColor: border-dark
         margin:
           - mr-0
+          - ml-0
       title:
         textAlign: left
       subtitle:
