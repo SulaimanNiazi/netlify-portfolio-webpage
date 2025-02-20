@@ -315,18 +315,15 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: >
+        text: |+
           **Oct 2024 - Jan 2025**
-
 
           *   Software Engineering Intern at [Emumba](https://emumba.com/)
 
-
           **Jul 2023 - Aug 2023**
 
+          *   Mechatronics Engineering Intern at [POF](https://pof.gov.pk/)
 
-          *   Mechatronics Engineering Intern at [Pakistan Ordinance
-          Factories](https://pof.gov.pk/)
         styles:
           self:
             textAlign: left
