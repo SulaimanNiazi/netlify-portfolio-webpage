@@ -20,6 +20,7 @@ media:
   url: /images/Screenshot 2025-02-10 223617.png
   altText: Proteus Simulation of Circuit
   caption: Proteus Simulation of Circuit
+socialImage: /images/Screenshot 2025-02-10 223617.png
 ---
 [Visit the project](https://github.com/SulaimanNiazi/Industrial_Production_Counter)
 
