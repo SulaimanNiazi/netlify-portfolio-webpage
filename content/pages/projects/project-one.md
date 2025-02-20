@@ -21,8 +21,6 @@ media:
   altText: Proteus Simulation of Circuit
   caption: Proteus Simulation of Circuit
 ---
-\[Visit the project]\(https\://github.com/SulaimanNiazi/Industrial\_Production\_Counter)
+[Visit the project](https://github.com/SulaimanNiazi/Industrial_Production_Counter)
 
-
-
-\[Download the project]\(https\://github.com/SulaimanNiazi/Industrial\_Production\_Counter/archive/refs/heads/main.zip)
+[Download the project](https://github.com/SulaimanNiazi/Industrial_Production_Counter/archive/refs/heads/main.zip)
