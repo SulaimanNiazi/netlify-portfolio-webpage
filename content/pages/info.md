@@ -229,6 +229,9 @@ sections:
         label: Cascading Style Sheets
       - type: Label
         label: ArduinoIDE
+      - type: Label
+        label: MPlab
+        url: ''
   - type: DividerSection
     styles:
       self:
