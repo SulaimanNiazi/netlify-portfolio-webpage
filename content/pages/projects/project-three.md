@@ -5,9 +5,9 @@ colors: colors-a
 date: '2024-02-13'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This project is a firmware application designed for the PIC16F877A
+  micro-controller to function as a clock. It displays the time on 7 segment
+  display. The firmware is developed using the MPLAB X IDE and the XC8 compiler.
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-14 211301.png
