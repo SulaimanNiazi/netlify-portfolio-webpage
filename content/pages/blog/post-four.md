@@ -110,7 +110,7 @@ media:
   type: ImageBlock
   url: /images/Screenshot 2025-02-20 212808.png
   altText: My Badge
-  caption: Caption of the image
+  caption: My badge of completion
   elementId: ''
 ---
 Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.
