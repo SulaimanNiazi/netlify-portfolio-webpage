@@ -228,7 +228,7 @@ sections:
       - type: Label
         label: Cascading Style Sheets
       - type: Label
-        label: Swift
+        label: ArduinoIDE
   - type: DividerSection
     styles:
       self:
