@@ -17,7 +17,7 @@ media:
 socialImage: /images/Screenshot 2025-02-19 224450.png
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/Screenshot 2025-02-19 224450.png
   altText: Proteus Simulation of Circuit
   caption: Proteus Simulation of Circuit
   elementId: ''
