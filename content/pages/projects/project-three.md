@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: PIC Clock
 colors: colors-a
 date: '2024-02-13'
 client: ''
