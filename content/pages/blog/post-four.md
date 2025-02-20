@@ -109,7 +109,7 @@ metaTitle: Sulaiman's LLM course accomplishment
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-02-20 212808.png
-  altText: altText of the image
+  altText: My Badge
   caption: Caption of the image
   elementId: ''
 ---
