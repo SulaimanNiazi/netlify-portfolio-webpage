@@ -13,16 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      Hello I am Muhammad Sulaiman, I am a gold medalist in Mechatronics
-      Engineering. I have done my bachelors in Mechatronics from the University
-      of Wah. I specialize in Robotics, Micro-controller Programming, and AI,
-      and I am quite experienced in Software Development, Web Development, and
-      API Automation Testing.
+    text: >
+      # Hello I am Muhammad Sulaiman
 
 
-
-
+      I am a gold medalist in Mechatronics Engineering. I have done my bachelors
+      in Mechatronics from the University of Wah. I specialize in Robotics,
+      Micro-controller Programming, and AI, and I am quite experienced in
+      Software Development, Web Development, and API Automation Testing.
     media:
       type: ImageBlock
       url: /images/1737112515295.jpeg
