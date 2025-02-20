@@ -16,8 +16,8 @@ sections:
     title: I’m a gold medalist in Mechatronics Engineering.
     subtitle: >-
       Embedded Systems Developer| Firmware & Robotics | Micro-controller &
-      Microprocessor Programming | AI & Software Development | API Automation &
-      Web Development
+      Microprocessor Programming | AI & Software Development | API Test
+      Automation & Web Development
     styles:
       self:
         height: auto
