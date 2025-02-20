@@ -85,7 +85,7 @@ sections:
         padding:
           - pt-8
           - pb-8
-          - pl-4
+          - pl-8
           - pr-8
         justifyContent: center
         borderRadius: none
