@@ -71,7 +71,7 @@ sections:
         caption: 'Mechatronics Engineering Intern '
       - type: ImageBlock
         url: /images/emumba.jpeg
-        altText: Logo five
+        altText: Emumba
         caption: Logo five
     spacing: 3
     columns: 5
