@@ -111,6 +111,7 @@ media:
   elementId: ''
 socialImage: /images/1737112496124.jpeg
 metaTitle: Sulaiman with the Governor of Punjab
+metaDescription: Sulaiman receiving his gold medal from Sardar Saleem Haider Khan
 ---
 Honored to stand with the esteemed Governor of Punjab, Sardar Saleem Haider Khan, on my 
 graduation day as a gold medalist in Mechatronics Engineering. This 
