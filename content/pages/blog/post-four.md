@@ -106,6 +106,12 @@ bottomSections:
         textAlign: left
 socialImage: /images/Screenshot 2025-02-20 212808.png
 metaTitle: Sulaiman's LLM course accomplishment
+media:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.
 
