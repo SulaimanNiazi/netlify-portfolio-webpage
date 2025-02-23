@@ -17,7 +17,8 @@ socialImage: /images/Screenshot 2025-02-14 211301.png
 media:
   type: VideoBlock
   title: Simulation video
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: >-
+    https://github.com/SulaimanNiazi/PIC-clock/blob/main/Simulation/PIC%20Clock%20Simulation%20Video.mp4
   elementId: ''
   autoplay: false
   loop: false
