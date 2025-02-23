@@ -18,7 +18,7 @@ featuredImage:
   elementId: ''
 media:
   type: VideoBlock
-  title: Title of the video
+  title: Simulation video
   url: >-
     https://github.com/SulaimanNiazi/PIC-Simple-Calculator/blob/main/Simulation/PIC%20Simple%20Calculator%20Simulation%20video.mp4
   elementId: ''
