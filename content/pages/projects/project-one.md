@@ -20,7 +20,7 @@ media:
     https://github.com/SulaimanNiazi/Industrial_Production_Counter/blob/main/Proteus%20Simulation/Industrial%20Production%20Counter%20Simulation%20Video.mp4
   elementId: ''
   autoplay: true
-  loop: false
+  loop: true
   muted: false
   controls: true
   aspectRatio: '16:9'
