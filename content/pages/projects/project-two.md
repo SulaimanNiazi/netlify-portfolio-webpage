@@ -19,7 +19,8 @@ featuredImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: >-
+    https://github.com/SulaimanNiazi/PIC-Simple-Calculator/blob/main/Simulation/PIC%20Simple%20Calculator%20Simulation%20video.mp4
   elementId: ''
   autoplay: false
   loop: false
