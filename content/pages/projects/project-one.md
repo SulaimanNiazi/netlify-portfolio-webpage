@@ -15,7 +15,7 @@ featuredImage:
 socialImage: /images/Screenshot 2025-02-10 223617.png
 media:
   type: VideoBlock
-  title: Title of the video
+  title: Simulation video
   url: >-
     https://github.com/SulaimanNiazi/Industrial_Production_Counter/blob/main/Proteus%20Simulation/Industrial%20Production%20Counter%20Simulation%20Video.mp4
   elementId: ''
