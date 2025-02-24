@@ -13,6 +13,16 @@ featuredImage:
   altText: Proteus Simulation of Circuit
   caption: Proteus Simulation of Circuit
 socialImage: /images/Screenshot 2025-02-10 223617.png
+media:
+  type: VideoBlock
+  title: Proteus Simulation
+  url: 'https://youtu.be/BD-YliszGkA'
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
 [Visit the project](https://github.com/SulaimanNiazi/Industrial_Production_Counter)
 
