@@ -9,11 +9,6 @@ description: >-
   micro-controller to function as a calculator. It takes input from a button
   grid and displays the results on an LM016L LCD display. The firmware is
   developed using the MPLAB X IDE and the XC8 compiler.
-media:
-  type: ImageBlock
-  url: /images/Screenshot 2025-02-19 224450.png
-  altText: Proteus Simulation of Circuit
-  caption: Proteus Simulation of Circuit
 socialImage: /images/Screenshot 2025-02-19 224450.png
 featuredImage:
   type: ImageBlock
