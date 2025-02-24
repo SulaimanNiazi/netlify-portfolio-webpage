@@ -1,53 +1,90 @@
-# Netlify Developer Portfolio Starter (auto-annotated)
+# NETLIFY PORTFOLIO WEBPAGE
 
-![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
+This is a personal website built with Next.js, TypeScript, and Tailwind CSS. The site includes various sections such as a project feed, quotes, and blog posts.
 
-This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://docs.netlify.com/visual-editor/overview/) and the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df96a8a5-6432-441c-98af-6f2e7488ef1c/deploy-status)](https://app.netlify.com/sites/sulaiman-niazi/deploys)
 
-The codebase showcases **how to apply annotations at scale**, meaning: how to make much of your components [highlightable in the visual editor](https://docs.netlify.com/visual-editor/visual-editing/inline-editor/) through data attributes without manually adding code throughout the codebase.
+## Project Structure
 
-**This is achieved by:**
+The project has the following structure:
 
-1. Adding an annotation property to the content objects at they're loaded (see `src/utils/content.ts`)
-1. When rendering the page, each content sub-object is dynamically matched to the appropriate component. At this point, wrap each component with an annotation, based on the abovementioned content property. See `src/components/components-registry.tsx`.
+## Key Features
 
-**⚡ Demo:** [auto-annotated-portfolio.netlify.app](https://auto-annotated-portfolio.netlify.app)
+- **Project Feed**: Displays a list of projects with various layouts.
+- **Quote Section**: Displays quotes with author information.
+- **Blog Posts**: Displays a list of blog posts sorted by date.
 
-## Deploying to Netlify
+## Components
 
-If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
+### ProjectFeedLayout
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/auto-annotated-portfolio)
+Located in [`src/components/layouts/ProjectFeedLayout/index.tsx`](src/components/layouts/ProjectFeedLayout/index.tsx), this component is responsible for rendering the project feed layout.
+
+### ProjectFeedSection
+
+Located in [`src/components/sections/ProjectFeedSection/index.tsx`](src/components/sections/ProjectFeedSection/index.tsx), this component handles the display of project feed sections with different variants.
+
+### QuoteSection
+
+Located in [`src/components/sections/QuoteSection/index.tsx`](src/components/sections/QuoteSection/index.tsx), this component displays quotes with optional author information.
+
+## Utilities
+
+### Static Props Resolvers
+
+Located in [`src/utils/static-props-resolvers.ts`](src/utils/static-props-resolvers.ts), this file contains functions to fetch and sort content objects such as posts and projects.
+
+### Highlighted Markdown
+
+Located in [`src/utils/highlighted-markdown.tsx`](src/utils/highlighted-markdown.tsx), this file provides a custom component for rendering highlighted code blocks in markdown content.
 
 ## Getting Started
 
-The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
+### Prerequisites
 
-Run the Next.js development server:
+- Node.js
+- npm or yarn
 
-```txt
-cd auto-annotated-portfolio
+### Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/SulaimanNiazi/NETLIFY_PORTFOLIO_WEBPAGE.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd personal-site
+    ```
+3. Install dependencies:
+    ```sh
+    npm install
+    ```
+
+### Development
+
+To start the development server, run:
+```sh
 npm run dev
 ```
 
-Install the [Netlify visual editor CLI](https://www.npmjs.com/package/@stackbit/cli). Then open a new terminal window in the same project directory and run the Netlify visual editor dev server:
+### Build
 
-```txt
-npm install -g @stackbit/cli
-stackbit dev
+To build the project, run:
+```sh
+npm run build
 ```
 
-This outputs your own Netlify visual editor URL. Open this, register or sign in, and you will be directed to Netlify's visual editor for your new project.
+### Start
 
-![Next.js Dev + Netlify visual editor dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
+To start the production server, run:
+```sh
+npm start
+```
 
-## Next Steps
+## License
 
-Here are a few suggestions on what to do next if you're new to Netlify Visual Editor:
+This project is licensed under the MIT License.
+```
 
-- Learn [how Netlify Visual Editor works](https://docs.netlify.com/visual-editor/overview/)
-- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
-
-## Support
-
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+Feel free to customize this README to better fit your project's specifics.
+Feel free to customize this README to better fit your project's specifics.
