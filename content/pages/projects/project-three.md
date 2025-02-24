@@ -16,7 +16,7 @@ featuredImage:
 socialImage: /images/Screenshot 2025-02-14 211301.png
 media:
   type: VideoBlock
-  title: Title of the video
+  title: Proteus Simulation
   url: 'https://youtu.be/BD-YliszGkA'
   elementId: ''
   autoplay: false
