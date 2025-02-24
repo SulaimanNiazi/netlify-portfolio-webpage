@@ -17,11 +17,11 @@ socialImage: /images/Screenshot 2025-02-14 211301.png
 media:
   type: VideoBlock
   title: Proteus Simulation
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: '/videos/PIC Clock Simulation Video.mp4'
   elementId: ''
-  autoplay: false
-  loop: false
-  muted: false
+  autoplay: true
+  loop: true
+  muted: true
   controls: true
   aspectRatio: '16:9'
 ---

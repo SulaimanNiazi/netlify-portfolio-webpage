@@ -19,11 +19,11 @@ featuredImage:
 media:
   type: VideoBlock
   title: Proteus Simulation
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: '/videos/PIC Simple Calculator Simulation video.mp4'
   elementId: ''
-  autoplay: false
-  loop: false
-  muted: false
+  autoplay: true
+  loop: true
+  muted: true
   controls: true
   aspectRatio: '16:9'
 ---
