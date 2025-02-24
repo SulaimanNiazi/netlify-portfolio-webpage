@@ -16,17 +16,6 @@ featuredImage:
   altText: Proteus Simulation of Circuit
   caption: Proteus Simulation of Circuit
   elementId: ''
-media:
-  type: VideoBlock
-  title: Simulation video
-  url: >-
-    https://github.com/SulaimanNiazi/PIC-Simple-Calculator/blob/main/Simulation/PIC%20Simple%20Calculator%20Simulation%20video.mp4
-  elementId: ''
-  autoplay: false
-  loop: false
-  muted: false
-  controls: true
-  aspectRatio: '16:9'
 ---
 [Visit the project](https://github.com/SulaimanNiazi/PIC-Simple-Calculator)
 
