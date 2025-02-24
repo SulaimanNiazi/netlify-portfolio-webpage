@@ -14,17 +14,6 @@ featuredImage:
   altText: Proteus Simulation of Circuit
   caption: Proteus Simulation of Circuit
 socialImage: /images/Screenshot 2025-02-14 211301.png
-media:
-  type: VideoBlock
-  title: Simulation video
-  url: >-
-    https://github.com/SulaimanNiazi/PIC-clock/blob/main/Simulation/PIC%20Clock%20Simulation%20Video.mp4
-  elementId: ''
-  autoplay: false
-  loop: false
-  muted: false
-  controls: true
-  aspectRatio: '16:9'
 ---
 [Visit the project](https://github.com/SulaimanNiazi/PIC-clock)
 
