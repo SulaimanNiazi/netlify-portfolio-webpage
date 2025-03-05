@@ -8,7 +8,7 @@ description: >-
   MM:SS:MS.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Screenshot 2025-02-26 230902.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
