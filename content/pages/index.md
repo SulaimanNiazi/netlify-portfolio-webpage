@@ -67,6 +67,7 @@ sections:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/timer-based-digital-stopwatch.md
     styles:
       self:
         height: auto
