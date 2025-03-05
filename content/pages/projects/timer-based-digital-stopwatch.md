@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Timer Based Digital Stopwatch
 date: '2025-02-26'
-client: Awesome client
+client: Mira Elektronikentwicklung
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
