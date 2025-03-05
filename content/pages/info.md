@@ -75,7 +75,7 @@ sections:
         caption: 'Mechatronics Engineering Intern '
       - type: ImageBlock
         url: /images/1667291657634.jpeg
-        altText: altText of the image
+        altText: Mira Elektronikentwicklung
         caption: Caption of the image
         elementId: ''
     spacing: 30
