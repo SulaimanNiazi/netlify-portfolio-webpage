@@ -32,3 +32,8 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
+This project implements a digital stopwatch using the PIC12F1572 microcontroller. The stopwatch uses Timer1 to count milliseconds and displays the elapsed time over UART in the format MM:SS:MS. The project is evaluated using software simulation in MPLAB X IDE.
+
+[Visit the Project](https://github.com/SulaimanNiazi/Timer-Based-Digital-Stopwatch)
+
+[Download the Project](https://github.com/SulaimanNiazi/Timer-Based-Digital-Stopwatch/archive/refs/heads/main.zip)
