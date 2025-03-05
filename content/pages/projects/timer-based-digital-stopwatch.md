@@ -4,8 +4,8 @@ title: Timer Based Digital Stopwatch
 date: '2025-02-26'
 client: Mira Elektronikentwicklung
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Digital stopwatch using Timer1. Displays elapsed time over UART in the format
+  MM:SS:MS.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
