@@ -25,6 +25,8 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
+This project is a firmware application designed for the PIC16F877A microcontroller to function as a calculator. It displays the results on an LM016L LCD display. The firmware is developed using the MPLAB X IDE and the XC8 compiler.
+
 [Visit the project](https://github.com/SulaimanNiazi/PIC-Simple-Calculator)
 
 [Download the project](https://github.com/SulaimanNiazi/PIC-Simple-Calculator/archive/refs/heads/main.zip)
