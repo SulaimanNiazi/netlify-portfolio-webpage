@@ -17,7 +17,7 @@ socialImage: /images/Screenshot 2025-02-14 211301.png
 media:
   type: VideoBlock
   title: Proteus Simulation
-  url: '/videos/PIC Clock Simulation Video.mp4'
+  url: /videos/PIC Clock Simulation Video.mp4
   elementId: ''
   autoplay: true
   loop: true
@@ -25,6 +25,8 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
+This project is a firmware application designed for the PIC16F877A micro-controller to function as a clock. It displays the time on 7 segment display. The firmware is developed using the MPLAB X IDE and the XC8 compiler.
+
 [Visit the project](https://github.com/SulaimanNiazi/PIC-clock)
 
 [Download the project](https://github.com/SulaimanNiazi/PIC-clock/archive/refs/heads/main.zip)
