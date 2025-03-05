@@ -16,11 +16,11 @@ socialImage: /images/Screenshot 2025-02-10 223617.png
 media:
   type: VideoBlock
   title: Proteus Simulation
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: '/videos/Industrial Production Counter Simulation Video.mp4'
   elementId: ''
-  autoplay: false
-  loop: false
-  muted: false
+  autoplay: true
+  loop: true
+  muted: true
   controls: true
   aspectRatio: '16:9'
 ---
