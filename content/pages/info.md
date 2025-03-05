@@ -321,7 +321,14 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: >
+        text: >+
+          **Feb 2025 - Present**
+
+
+          *   Junior Design Engineer at [Mira
+          Elektronikentwicklung](https://mira-ee.de/)
+
+
           **Oct 2024 - Jan 2025**
 
 
@@ -331,21 +338,8 @@ sections:
           **Jul 2023 - Aug 2023**
 
 
-          *   Mechatronics Engineering Intern at [POF](https://pof.gov.pk/)
+          *   Mechatronics Engineering Intern at [POF](https://pof.gov.pk/)****
 
-
-          **2020 - 2024**
-
-
-          *   Member of Robotics Society at [Wah Engineering
-          College](https://www.wecuw.edu.pk/)
-
-
-          **2019 - 2020**
-
-
-          *   President of STEM Society at [Benchmark School
-          System](https://benchmark.edu.pk/)
         styles:
           self:
             textAlign: left
