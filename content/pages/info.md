@@ -76,7 +76,7 @@ sections:
       - type: ImageBlock
         url: /images/1667291657634.jpeg
         altText: Mira Elektronikentwicklung
-        caption: Caption of the image
+        caption: Junior Design Engineer
         elementId: ''
     spacing: 30
     columns: 5
