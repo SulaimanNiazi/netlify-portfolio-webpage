@@ -4,8 +4,8 @@ title: Simple EEPROM Settings Manager
 date: '2025-02-27'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Implementation of a simple non-volatile settings manager using EEPROM
+  emulation in RAM. 
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-26 231125.png
