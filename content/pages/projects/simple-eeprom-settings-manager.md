@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-26 231125.png
-  altText: Project thumbnail image
+  altText: Proteus Circuit
   caption: ''
   elementId: ''
 media:
