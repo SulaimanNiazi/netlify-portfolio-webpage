@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-26 231125.png
   altText: Proteus Circuit
-  caption: ''
+  caption: Proteus Circuit
   elementId: ''
 media:
   type: ImageBlock
