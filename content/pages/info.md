@@ -131,7 +131,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://x.com/arcadianarcana'
+            url: 'https://x.com/Sulaiman_Niaxi'
         styles:
           self:
             textAlign: left
